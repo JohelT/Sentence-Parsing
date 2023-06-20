@@ -3,4 +3,4 @@
 
 | Week 1 - Website Setup and Data Cleaning  |
 |-------------------------------------------|
-| [Hello World](/resourses/helloworld.html) |
+| [Hello World](/resources/helloworld.html) |
