@@ -1,5 +1,5 @@
 # Sentence Parsing
-#### A Journey
+## A Journey
 
 | Week 1 - Website Setup and Data Cleaning |
 |------------------------------------------|
