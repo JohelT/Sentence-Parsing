@@ -2,4 +2,4 @@
 title: Home
 layout: home
 ---
-[Recombine](/recombine.html)
+[Recombine](/Sentence-Parsing/recombine.html)
